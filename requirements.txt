@@ -1,0 +1,7 @@
+streamlit
+opencv-python-headless
+pandas
+numpy
+plotly
+inference-sdk
+reportlab
